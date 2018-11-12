@@ -14,6 +14,12 @@
   }
 }
 
+body {
+  margin: 0;
+  padding: 6vw 8vw;
+  font-family: 'EB Garamond';
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,7 +28,7 @@
   background-size: 100%;
 }
 
-.my_social {
+/*.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
@@ -39,11 +45,6 @@
 
 
 
-body {
-  margin: 0;
-  padding: 6vw 8vw;
-  font-family: 'EB Garamond';
-}
 
 h1, h2, h3 {
   font-weight: 400;
