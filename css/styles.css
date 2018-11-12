@@ -91,7 +91,7 @@ p>img {
   width: 100vw;
 }
 
-/*blockquote {
+blockquote {
   margin: 3rem 2rem 3rem 1rem;
   padding-left: 2rem;
   border-left: 0.25rem solid rgba(230, 224, 200, 0.6);
@@ -99,7 +99,7 @@ p>img {
   font-style: italic;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
