@@ -58,12 +58,12 @@ h1+p strong::after {
   background-color: #eee;
 }
 
-/*h2 {
+h2 {
   margin: 4rem 0 3rem;
   font-size: 2.75rem;
 }
 
-h3 {
+/*h3 {
   margin: 5rem 0 3rem;
   font-size: 2rem;
 }
