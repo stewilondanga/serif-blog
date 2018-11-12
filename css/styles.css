@@ -79,11 +79,11 @@ p, li {
   max-width: 40rem;
 }
 
-/*strong {
+strong {
   font-weight: 400;
 }
 
-p > img {
+/*p > img {
   display: inline-block;
   vertical-align: baseline;
   margin-bottom: 3rem;
