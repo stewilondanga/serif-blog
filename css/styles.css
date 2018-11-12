@@ -83,7 +83,7 @@ strong {
   font-weight: 400;
 }
 
-/*p > img {
+p>img {
   display: inline-block;
   vertical-align: baseline;
   margin-bottom: 3rem;
@@ -91,7 +91,7 @@ strong {
   width: 100vw;
 }
 
-blockquote {
+/*blockquote {
   margin: 3rem 2rem 3rem 1rem;
   padding-left: 2rem;
   border-left: 0.25rem solid rgba(230, 224, 200, 0.6);
